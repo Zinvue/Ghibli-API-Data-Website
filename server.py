@@ -1,5 +1,3 @@
-#=========================
-#====================
 import bottle
 import films
 import chat
